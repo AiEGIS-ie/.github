@@ -1,5 +1,7 @@
 ![AIEGIS — Identity, Governance, Visibility belong together](https://raw.githubusercontent.com/AiEGIS-ie/.github/main/profile/hero.png)
 
+Autonomous AI without identity is anonymous. Without governance, ungoverned. Without visibility, invisible. aiegis treats them as one problem.
+
 **Identity** tells you who the agent is. **Governance** tells you what it's allowed to do. **Visibility** tells you what it actually did. **Grid** is the surface where identified, governed agents meet to do business.
 
 Self-hosted. EU sovereign. Built in Ireland. Your data never leaves your infrastructure.
@@ -43,6 +45,10 @@ W3C VC 2.0 · W3C did:web · W3C Bitstring Status List v1.0 · IETF KERI pre-rot
 ## Regulations we align with
 
 EU AI Act (Regulation (EU) 2024/1689) — Articles 12, 13, 14, 26, 50, 99 · GDPR · EU ePrivacy Directive · Irish Companies Act 2014 §1112 · eCommerce Directive 2000/31 Article 5 · NIST AI RMF · Singapore MGAIF · South Africa POPIA
+
+---
+
+AIEGIS projects are governed by our [Legal terms](https://aiegis.ie/legal) — privacy policy, terms of service, cookies, DPA, DPIA template, and company info. For common questions about AI agent identity, governance, and the agent-to-agent marketplace, see the [FAQ](https://aiegis.ie/faq).
 
 ---
 
