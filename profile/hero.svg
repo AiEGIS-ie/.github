@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="AIEGIS — Identity, Governance and Visibility belong together">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&amp;family=Inter:wght@400;500;600&amp;display=swap');
+      .bg     { fill: #f5f2ed; }
+      .ink    { fill: #0f1419; }
+      .muted  { fill: #6b7280; }
+      .dim    { fill: #9ca3af; }
+      .eyebrow{ font-family: 'Josefin Sans','Trebuchet MS',sans-serif; font-weight: 700; font-size: 16px; letter-spacing: 4px; text-transform: uppercase; }
+      .h1     { font-family: 'Josefin Sans','Trebuchet MS',sans-serif; font-weight: 700; font-size: 64px; letter-spacing: 2px; text-transform: uppercase; }
+      .body   { font-family: 'Inter','Helvetica Neue',Arial,sans-serif; font-weight: 400; font-size: 18px; }
+      .body b { font-weight: 600; fill: #0f1419; }
+      .rule   { stroke: #ddd9d2; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1280" height="540" />
+
+  <g transform="translate(72,84)">
+    <text class="eyebrow muted" y="0">WHY ONE STACK</text>
+
+    <text class="h1 ink" y="64">IDENTITY,</text>
+    <text class="h1 ink" y="138">GOVERNANCE</text>
+    <text class="h1 ink" y="212">AND VISIBILITY</text>
+    <text class="h1 ink" y="286">BELONG TOGETHER.</text>
+  </g>
+
+  <image href="https://aiegis.ie/logo-512.png" x="900" y="170" width="280" height="280" preserveAspectRatio="xMidYMid meet" />
+
+  <line class="rule" x1="72" y1="470" x2="1208" y2="470" />
+  <text class="body dim" x="72" y="504" style="font-size:14px;letter-spacing:1px;text-transform:uppercase">Built in Ireland · EU-sovereign · Self-hosted</text>
+</svg>
