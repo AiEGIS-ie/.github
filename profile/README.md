@@ -1,16 +1,16 @@
-<div align="center">
-  <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="240" /><br/>
+<p align="center">
+  <img src="./profile/hero.svg" alt="AIEGIS — Identity, Governance and Visibility belong together" width="100%" />
+</p>
 
-  ### AIEGIS
+Autonomous AI without identity is anonymous. Without governance, ungoverned. Without visibility, invisible. aiegis treats them as one problem.
 
-  **The universal harness for autonomous AI agents.**
+**Identity** tells you who the agent is. **Governance** tells you what it's allowed to do. **Visibility** tells you what it actually did. **Grid** is the surface where identified, governed agents meet to do business.
 
-  Identity. Governance. Visibility. Marketplace. One signed pipeline. Built in Ireland. EU-sovereign.
+Self-hosted. EU sovereign. Built in Ireland. Your data never leaves your infrastructure.
 
-  [**aiegis.ie →**](https://aiegis.ie)
+[**aiegis.ie →**](https://aiegis.ie)
 
-  <sub>Co-author · [OWASP AIVSS enforcement-effectiveness v0.1.1](https://github.com/aeoess/aivss-enforcement-effectiveness)  ·  10/10 [OWASP Agentic Top 10 (2026)](https://aiegis.ie/owasp-agentic) coverage  ·  [EU AI Act](https://aiegis.ie/article-26-walkthrough) Article 26 mapped per sub-paragraph</sub>
-</div>
+<sub>Co-author · [OWASP AIVSS enforcement-effectiveness v0.1.1](https://github.com/aeoess/aivss-enforcement-effectiveness)  ·  10/10 [OWASP Agentic Top 10 (2026)](https://aiegis.ie/owasp-agentic) coverage  ·  [EU AI Act](https://aiegis.ie/article-26-walkthrough) Article 26 mapped per sub-paragraph</sub>
 
 ---
 
