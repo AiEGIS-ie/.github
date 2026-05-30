@@ -1,42 +1,56 @@
-# AIEGIS
+<div align="center">
+  <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="180" />
 
-**Universal identity, governance, and visibility for autonomous AI agents.**
+  # AIEGIS
 
-EU-sovereign. Built in Ireland. Deployed on customer infrastructure.
+  **The universal harness for autonomous AI agents.**
 
-[aiegis.ie](https://aiegis.ie) · [llms-full.txt](https://aiegis.ie/llms-full.txt) · [hello@aiegis.ie](mailto:hello@aiegis.ie)
+  Identity. Governance. Visibility. Marketplace. One signed pipeline. Built in Ireland. EU-sovereign.
+
+  [**aiegis.ie →**](https://aiegis.ie)
+
+  <sub>Co-author · [OWASP AIVSS enforcement-effectiveness v0.1.1](https://github.com/aeoess/aivss-enforcement-effectiveness)  ·  10/10 [OWASP Agentic Top 10 (2026)](https://aiegis.ie/owasp-agentic) coverage  ·  [EU AI Act](https://aiegis.ie/article-26-walkthrough) Article 26 mapped per sub-paragraph</sub>
+</div>
 
 ---
 
-## What aiegis is
+## What we build
 
-aiegis is the runtime layer between autonomous AI agents and the world. Every action an agent takes — every API call, every contract sign, every payment, every message — is intercepted, evaluated against a 15-layer enforcement chain, signed, and logged to an append-only audit ledger with a 5-year retention floor.
+Every action an AI agent takes — every API call, every contract sign, every payment, every message — is intercepted, evaluated against a 15-layer policy chain, signed, and logged to an append-only audit ledger with a 5-year retention floor. The agent cannot reach the world except through the harness.
 
-Four products, one umbrella:
+| | |
+|---|---|
+| [**Identity**](https://aiegis.ie/identity) | Cryptographic Ed25519 agent passports. Hardware-bound (TPM 2.0 / Apple Secure Enclave / FIDO2). Human-anchored via biometric attestation. |
+| [**Governance**](https://aiegis.ie/governance) | 15-layer runtime policy enforcement. 5 jurisdictional rule packs (EU AI Act, GDPR, NIST AI RMF, Singapore MGAIF, South Africa POPIA). |
+| [**Eye**](https://aiegis.ie/aegis-eye) | Endpoint AI visibility. Detects which AI vendors employees connect to, on-device, metadata only. |
+| [**Grid**](https://aiegis.ie/grid) | Agent-to-agent marketplace. Verified passports transact under the same governance pipeline. |
+| [**Harness**](https://aiegis.ie/harness) | LD_PRELOAD (Linux) / DYLD_INSERT_LIBRARIES (macOS) / WFP (Windows) runtime shim. Signed daemon. Append-only ledger. |
 
-- **AIEGIS Identity** — cryptographic Ed25519 agent passports, hardware-bound (TPM 2.0, Apple Secure Enclave, FIDO2), human-anchored via biometric attestation.
-- **AIEGIS Governance** — 15-layer runtime policy enforcement across EU AI Act, GDPR, NIST AI RMF, Singapore MGAIF, South Africa POPIA.
-- **AIEGIS Eye** — endpoint AI visibility. Detects which AI vendors employees use (ChatGPT, Claude, Copilot, Gemini, Cursor) on-device, metadata only.
-- **Grid** — agent-to-agent marketplace where verified passports transact under the same governance pipeline.
+---
 
-## Standards we implement
+## Live & verifiable
 
-W3C VC 2.0 · W3C did:web · W3C Bitstring Status List v1.0 · IETF KERI pre-rotation · IETF SCITT SCRAPI-10 · IETF ACME device attestation · IETF WIMSE WPT · IETF RATS AR4SI · IETF SPIFFE Federation · OWASP AIVSS enforcement-effectiveness (v0.1.1 co-author) · OWASP Top 10 for Agentic Applications (10/10 coverage)
+```
+GET  https://aiegis.ie/identity/did.json              → did:web DID document
+GET  https://aiegis.ie/grid/.well-known/jwks.json     → Ed25519 issuance JWKS
+GET  https://aiegis.ie/grid/ledger/retention          → audit retention contract (1825-day floor)
+POST https://aiegis.ie/api/protect                    → 15-layer governance decision
+GET  https://aiegis.ie/llms-full.txt                  → full corpus for AI agents
+```
+
+---
+
+## Standards we contribute to or implement
+
+W3C VC 2.0 · W3C did:web · W3C Bitstring Status List v1.0 · IETF KERI pre-rotation · IETF SCITT SCRAPI-10 · IETF ACME device attestation · IETF WIMSE WPT · IETF RATS AR4SI · IETF SPIFFE Federation · OWASP AIVSS enforcement-effectiveness (co-author) · OWASP Top 10 for Agentic Applications (10/10 ASI categories mapped)
 
 ## Regulations we align with
 
 EU AI Act (Regulation (EU) 2024/1689) — Articles 12, 13, 14, 26, 50, 99 · GDPR · EU ePrivacy Directive · Irish Companies Act 2014 §1112 · eCommerce Directive 2000/31 Article 5 · NIST AI RMF · Singapore MGAIF · South Africa POPIA
 
-## Live endpoints
+---
 
-- `GET https://aiegis.ie/identity/did.json` — did:web:aiegis.ie DID document
-- `GET https://aiegis.ie/grid/.well-known/jwks.json` — Grid issuance JWKS
-- `GET https://aiegis.ie/grid/ledger/retention` — audit ledger retention contract
-- `POST https://aiegis.ie/api/protect` — 15-layer governance decision
-- `GET https://aiegis.ie/llms-full.txt` — full AI-readable corpus
-
-## Contact
-
-[hello@aiegis.ie](mailto:hello@aiegis.ie)
-
-Built in Ireland. Universal. EU-sovereign.
+<div align="center">
+  <sub>Built in Ireland. Deployed on customer infrastructure.</sub><br>
+  <sub><a href="mailto:hello@aiegis.ie">hello@aiegis.ie</a></sub>
+</div>
