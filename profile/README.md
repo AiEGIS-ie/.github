@@ -1,7 +1,5 @@
 ![AIEGIS — Identity, Governance, Visibility belong together](https://raw.githubusercontent.com/AiEGIS-ie/.github/main/profile/hero.png)
 
-Autonomous AI without identity is anonymous. Without governance, ungoverned. Without visibility, invisible. aiegis treats them as one problem.
-
 **Identity** tells you who the agent is. **Governance** tells you what it's allowed to do. **Visibility** tells you what it actually did. **Grid** is the surface where identified, governed agents meet to do business.
 
 Self-hosted. EU sovereign. Built in Ireland. Your data never leaves your infrastructure.
