@@ -1,7 +1,4 @@
-# IDENTITY,
-# GOVERNANCE,
-# VISIBILITY
-# BELONG TOGETHER
+![AIEGIS — Identity, Governance, Visibility belong together](profile/hero.png)
 
 Autonomous AI without identity is anonymous. Without governance, ungoverned. Without visibility, invisible. aiegis treats them as one problem.
 
