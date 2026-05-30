@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="400" />
+  <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="300" />
 
-  # AIEGIS
+  <h1 style="margin-top:-8px">AIEGIS</h1>
 
   **The universal harness for autonomous AI agents.**
 
