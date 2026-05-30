@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="300" />
 
-  <h1 style="margin-top:-8px">AIEGIS</h1>
-
   **The universal harness for autonomous AI agents.**
 
   Identity. Governance. Visibility. Marketplace. One signed pipeline. Built in Ireland. EU-sovereign.
