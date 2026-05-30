@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="300" />
+  <img src="https://aiegis.ie/logo-512.png" alt="AIEGIS" width="400" />
 
   # AIEGIS
 
