@@ -9,6 +9,9 @@ Self-hosted. EU sovereign. Built in Ireland. Your data never leaves your infrast
 [**aiegis.ie →**](https://aiegis.ie)
 
 <sub>Co-author · [OWASP AIVSS enforcement-effectiveness v0.1.1](https://github.com/aeoess/aivss-enforcement-effectiveness)  ·  10/10 [OWASP Agentic Top 10 (2026)](https://aiegis.ie/owasp-agentic) coverage  ·  [EU AI Act](https://aiegis.ie/article-26-walkthrough) Article 26 mapped per sub-paragraph</sub>
+---
+
+AIEGIS projects are governed by our [Legal terms](https://aiegis.ie/legal) — privacy policy, terms of service, cookies, DPA, DPIA template, and company info. For common questions about AI agent identity, governance, and the agent-to-agent marketplace, see the [FAQ](https://aiegis.ie/faq).
 
 ---
 
@@ -45,10 +48,6 @@ W3C VC 2.0 · W3C did:web · W3C Bitstring Status List v1.0 · IETF KERI pre-rot
 ## Regulations we align with
 
 EU AI Act (Regulation (EU) 2024/1689) — Articles 12, 13, 14, 26, 50, 99 · GDPR · EU ePrivacy Directive · Irish Companies Act 2014 §1112 · eCommerce Directive 2000/31 Article 5 · NIST AI RMF · Singapore MGAIF · South Africa POPIA
-
----
-
-AIEGIS projects are governed by our [Legal terms](https://aiegis.ie/legal) — privacy policy, terms of service, cookies, DPA, DPIA template, and company info. For common questions about AI agent identity, governance, and the agent-to-agent marketplace, see the [FAQ](https://aiegis.ie/faq).
 
 ---
 
